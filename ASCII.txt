@@ -1,0 +1,7 @@
+<path-to-video-to-convert> <path-to-video-name-in-which-to-convert>
+<variance-of-empty-gaussian> <background-gaussians-threshold>
+<no-of-tranining-frames> <no-of-total-gaussians-at-a-pixel-at-any-time-t>
+
+e.g.
+D:/WorkArea/IITD/MachineLearning/OpenCV/Gaussian/Gaussian/Video.mpg D:/WorkArea/IITD/MachineLearning/OpenCV/Gaussian/Gaussian/FrgndSubVideo.mpg 400 0.8 25 5
+
